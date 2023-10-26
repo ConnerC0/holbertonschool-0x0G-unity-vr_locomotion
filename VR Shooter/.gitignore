@@ -9,6 +9,13 @@
 /[Bb]uilds/
 /[Ll]ogs/
 /[Uu]ser[Ss]ettings/
+/Assets/BNG Framework/
+/Assets/Bootcamp Map
+/Assets/SteamVR
+/Assets/SteamVR_Input
+/Assets/SteamVR_Resources
+/Assets/Zombies
+
 
 # MemoryCaptures can get excessive in size.
 # They also could contain extremely sensitive data
